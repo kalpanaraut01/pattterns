@@ -1,4 +1,4 @@
-# Python 3.x code to demonstrate star pattern
+# Python 3.x code to demonstrate 5 headed star pattern
 
 # Function to demonstrate printing pattern
 def pypart(n):
